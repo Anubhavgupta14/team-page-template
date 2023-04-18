@@ -156,29 +156,3 @@ h2
     top: 1.5rem;
     font-size: 1.7em;
 }
-
-@media screen and (max-width: 375px) {
-    /* .container .card
-    {
-    position: relative;
-    width: 500px;
-    height: 500px;
-    margin:30px;
-    background: rgba(255, 255, 255, 0.05);
-    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
-    border-radius: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    backdrop-filter: blur(10px);
-    } */
-    h2
-    {
-    color:#e30303;
-    text-align:center;
-    position: relative;
-    top: 1.5rem;
-    font-size: 1.7em;
-    }
-    
-  }
